@@ -6,13 +6,11 @@ End Code
 <h3>@ViewData("Message")</h3>
 
 <address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
+    GitHub: <a href="https://github.com/owetho/SMG">SMG Repo</a><br />
+    Trello: <a href="https://trello.com/b/fNSIaThs/smg">SMG Trello</a><br />
+
 </address>
 
 <address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    <strong>Contact Owen:</strong>   <a href="mailto:owen.thomas92@gmail.com">owen.thomas92@gmail.com</a><br />
 </address>

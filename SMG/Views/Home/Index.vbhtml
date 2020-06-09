@@ -4,7 +4,7 @@ End Code
 
 <div class="jumbotron">
     <h1>Owen's Stock Market Game</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p class="lead">Creation of a Stock Market Game by Owen Thomas.</p>
     <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
 
